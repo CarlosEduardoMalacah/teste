@@ -25,3 +25,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![wp2595100-pokemon-background](https://user-images.githubusercontent.com/93654887/144954169-194ea83a-80ee-4618-85d8-46dd43793742.png)
